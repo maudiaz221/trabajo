@@ -1,2 +1,11 @@
 que onda
 
+git add
+git commit
+git rm #quitar
+git mv #renombrar
+
+git restore --staged nomarch
+git restore nomarch
+
+git status
