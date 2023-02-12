@@ -9,3 +9,5 @@ git restore --staged nomarch
 git restore nomarch
 
 git status
+
+git checkout #nombre de rama
