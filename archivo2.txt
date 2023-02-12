@@ -11,3 +11,6 @@ git restore nomarch
 git status
 
 git checkout #nombre de rama
+
+git branch --delete #branchname
+
